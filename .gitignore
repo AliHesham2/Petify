@@ -23,3 +23,22 @@ release/
 keystore/
 *.jks
 *.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Local signing configuration & environment secrets
+keystore.properties
+signing.properties
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Local scratch work & tool state
+/scratch/
+/.codex/
+/.agents/
+*.hprof
+*.log

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Petify — Find your forever friend</title>
+  <desc id="desc">Petify's paw and heart logo on a purple and teal banner. Discover. Love. Adopt.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#211344" />
+      <stop offset="0.55" stop-color="#382064" />
+      <stop offset="1" stop-color="#075E59" />
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C4DFF" />
+      <stop offset="0.5" stop-color="#6200EA" />
+      <stop offset="1" stop-color="#00BFA5" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="url(#background)" />
+  <circle cx="1100" cy="20" r="220" fill="#00BFA5" opacity="0.07" />
+  <circle cx="1095" cy="30" r="150" fill="none" stroke="#92E5D7" stroke-opacity="0.12" />
+  <circle cx="1095" cy="30" r="260" fill="none" stroke="#92E5D7" stroke-opacity="0.08" />
+  <circle cx="50" cy="390" r="170" fill="#7C4DFF" opacity="0.13" />
+  <g transform="translate(76 96) scale(1.7)">
+    <path d="M54,4 C81.6,4 104,26.4 104,54 C104,81.6 81.6,104 54,104 C26.4,104 4,81.6 4,54 C4,26.4 26.4,4 54,4 Z" fill="url(#brand)" />
+    <g fill="#FFFFFF">
+      <path d="M37.5,41.5m-5,0a5,5 0 1,1 10,0a5,5 0 1,1 -10,0" />
+      <path d="M48.5,33.5m-5.8,0a5.8,5.8 0 1,1 11.6,0a5.8,5.8 0 1,1 -11.6,0" />
+      <path d="M59.5,33.5m-5.8,0a5.8,5.8 0 1,1 11.6,0a5.8,5.8 0 1,1 -11.6,0" />
+      <path d="M70.5,41.5m-5,0a5,5 0 1,1 10,0a5,5 0 1,1 -10,0" />
+      <path fill-rule="evenodd" d="M54,49 C43.5,49 36,55.5 36,64 C36,70.5 41.5,76.5 48,76.5 C51,76.5 52.5,75 54,75 C55.5,75 57,76.5 60,76.5 C66.5,76.5 72,70.5 72,64 C72,55.5 64.5,49 54,49 Z M54,69 C54,69 46.5,64 46.5,59.8 C46.5,57.5 48.2,55.8 50.5,55.8 C52,55.8 53.3,56.8 54,58 C54.7,56.8 56,55.8 57.5,55.8 C59.8,55.8 61.5,57.5 61.5,59.8 C61.5,64 54,69 54,69 Z" />
+    </g>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="305" y="119" fill="#8DE4D4" font-size="14" font-weight="600" letter-spacing="4">DISCOVER. LOVE. ADOPT.</text>
+    <text x="300" y="199" fill="#FFFFFF" font-size="76" font-weight="700" letter-spacing="-2">Petify</text>
+    <text x="305" y="246" fill="#F0E9FF" font-size="29">Find your forever friend.</text>
+    <text x="305" y="285" fill="#C6BFDA" font-size="17">A welcoming space for pets and the people who love them.</text>
+  </g>
+  <rect x="80" y="340" width="1040" height="2" rx="1" fill="#FFFFFF" opacity="0.09" />
+</svg>
